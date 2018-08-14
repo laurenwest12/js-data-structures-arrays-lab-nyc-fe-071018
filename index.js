@@ -12,3 +12,7 @@ function destructivelyPrependDriver (name) {
 function destructivelyRemoveLastDriver () {
   return drivers.pop()
 }
+
+function destructivelyRemoveLastDriver () {
+  return drivers.pop()
+}
