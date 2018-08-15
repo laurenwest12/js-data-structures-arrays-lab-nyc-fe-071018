@@ -28,6 +28,6 @@ function prependDriver (name){
 }
 
 function removeLastDriver (name){
-  let newArray = ["Arnold", ...drivers]
+  let newArray = drivers.
   return newArray
 }
